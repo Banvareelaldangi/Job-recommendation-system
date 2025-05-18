@@ -1,0 +1,12 @@
+artifact_path: TFIDF_Vectorizer
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.15.1
+model_size_bytes: 574925
+model_uuid: 30429b1c8be94563ba5cb6eb23bb08a9
+run_id: ab64aa2f24f14644bd7782fa67f29cfd
+utc_time_created: '2024-11-29 08:08:17.741591'
